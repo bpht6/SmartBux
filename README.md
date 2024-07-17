@@ -3,7 +3,7 @@ A bridge between traditional debit cards and crypto currency.  SmartBux is built
 
 Accept payments or create a new SmartBux card right on your android device.
 
-### Card Readers we have tested and are known to work
+### Card Readers we have tested and work
 
 * ACR39U-NF PocketMate II USB-C Smart Card Reader (requires the phone case to be removed)
 * OMNIKEY 3121 USB Card Reader 
