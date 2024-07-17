@@ -11,6 +11,7 @@ Accept payments or create a new SmartBux card right on your android device.
 
 ### SmartBux uses a SLE4428 card
 Amazon has 10 card packs available as of 7/17/2024.
+
 If you recieved a SmartBux card at ThetaEuroCon the current wallet on the card will not work with SmartBux Payments.  To update the wallet use SmartBux Create and create a new card enter your pin and insert the SmartBux card you recieved at ThetEuroCon then it will be updated with a new wallet and work with SmartBux Payments.
 
 
