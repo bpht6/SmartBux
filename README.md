@@ -9,7 +9,8 @@ Accept payments or create a new SmartBux card right on your android device.
 * OMNIKEY 3121 USB Card Reader 
 * OMNIKEY 3021 USB Card Reader 
 
-### SmartBux uses a blank SLE4428 card
+### SmartBux uses a SLE4428 card
+Amazon has 10 card packs available as of 7/17/2024.
 
 To test out SmartBux download the alpha version from the release folder and install it on your Android phone. 
 
