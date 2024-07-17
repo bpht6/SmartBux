@@ -15,8 +15,10 @@ Amazon has 10 card packs available as of 7/17/2024.
 If you recieved a SmartBux card at ThetaEuroCon the current wallet on the card will not work with SmartBux Payments.  To update the wallet use SmartBux Create and create a new card enter your pin and insert the SmartBux card you recieved at ThetEuroCon then it will be updated with a new wallet and work with SmartBux Payments.
 
 
-To test out SmartBux download the alpha version from the release folder and install it on your Android phone. 
+To test out SmartBux download the alpha version from Releases and install it on your Android phone. 
 
 SmartBux v0.0.01-alpha was only designed to run on a phone in portrate mode. Future releases will incorporate tablet use cases.
+
+This version has been tested on a Samsung a01 and Samsung a54
 
 To learn more about SmartBux visit: https://www.smartbux.io/
